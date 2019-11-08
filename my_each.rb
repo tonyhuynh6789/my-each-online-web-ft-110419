@@ -6,6 +6,7 @@ while i < array.count do
   
   
 end 
+array
   # put argument(s) here
   # code here
 end
